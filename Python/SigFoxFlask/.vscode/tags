@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ATA_TEMP_MAX	../SigFoxFlask.py	/^    ATA_TEMP_MAX = 60$/;"	kind:variable	line:31
+ATA_TEMP_MIN	../SigFoxFlask.py	/^    ATA_TEMP_MIN = -60$/;"	kind:variable	line:30
+ConnectionError	../SigFoxFlask.py	/^from requests.exceptions import ConnectionError$/;"	kind:namespace	line:14
+DHT_HUMI_MAX	../SigFoxFlask.py	/^    DHT_HUMI_MAX = 100$/;"	kind:variable	line:29
+DHT_HUMI_MIN	../SigFoxFlask.py	/^    DHT_HUMI_MIN = 0$/;"	kind:variable	line:28
+DHT_TEMP_MAX	../SigFoxFlask.py	/^    DHT_TEMP_MAX = 120$/;"	kind:variable	line:27
+DHT_TEMP_MIN	../SigFoxFlask.py	/^    DHT_TEMP_MIN = -40$/;"	kind:variable	line:26
+FMT_STR	../SigFoxFlask.py	/^    FMT_STR = '<BhHhB'$/;"	kind:variable	line:24
+Flask	../SigFoxFlask.py	/^from flask import Flask, request, jsonify$/;"	kind:namespace	line:11
+INT16_t_MAX	../conversions.py	/^INT16_t_MAX = 32768$/;"	kind:variable	line:2
+InfluxDBClient	../SigFoxFlask.py	/^from influxdb import InfluxDBClient$/;"	kind:namespace	line:12
+InfluxDBClientError	../SigFoxFlask.py	/^from influxdb.client import InfluxDBClientError$/;"	kind:namespace	line:13
+MyFrame	../SigFoxFlask.py	/^class MyFrame:$/;"	kind:class	line:21
+SigFoxFlask.py	../SigFoxFlask.py	1;"	kind:file	line:1
+UINT16_t_MAX	../conversions.py	/^UINT16_t_MAX = 65536$/;"	kind:variable	line:1
+__init__	../SigFoxFlask.py	/^    def __init__(self):$/;"	kind:member	line:33
+__repr__	../SigFoxFlask.py	/^    def __repr__(self):$/;"	kind:member	line:56
+app	../SigFoxFlask.py	/^app = Flask(__name__)$/;"	kind:variable	line:18
+click	../SigFoxFlask.py	/^import click$/;"	kind:namespace	line:9
+conversions	../SigFoxFlask.py	/^import conversions$/;"	kind:namespace	line:16
+conversions.py	../conversions.py	1;"	kind:file	line:1
+get_data	../SigFoxFlask.py	/^def get_data(device):$/;"	kind:function	line:67
+hello_world	../SigFoxFlask.py	/^def hello_world():$/;"	kind:function	line:62
+int16_to_float	../conversions.py	/^def int16_to_float(value, max_val, min_val):$/;"	kind:function	line:5
+jsonify	../SigFoxFlask.py	/^from flask import Flask, request, jsonify$/;"	kind:namespace	line:11
+load	../SigFoxFlask.py	/^    def load(self, hex_data):$/;"	kind:member	line:40
+main	../SigFoxFlask.py	/^def main(influx_host, influx_db):$/;"	kind:function	line:96
+pformat	../SigFoxFlask.py	/^        from pprint import pformat$/;"	kind:namespace	line:57
+request	../SigFoxFlask.py	/^from flask import Flask, request, jsonify$/;"	kind:namespace	line:11
+struct	../SigFoxFlask.py	/^import struct$/;"	kind:namespace	line:6
+sys	../SigFoxFlask.py	/^import sys$/;"	kind:namespace	line:7
+uint16_to_float	../conversions.py	/^def uint16_to_float(value, max_val, min_val):$/;"	kind:function	line:10
+unpack	../SigFoxFlask.py	/^    def unpack(self, data):$/;"	kind:member	line:37
